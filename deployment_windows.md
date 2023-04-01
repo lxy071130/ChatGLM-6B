@@ -198,7 +198,8 @@ mkdir /data && cd /data
 cp -r /mnt/d/wealth/code/Python/ChatGLM-6B/ .
 ```
 
-`/mnt/d/wealth/code/Python/ChatGLM-6B/` 项目在Windows系统中所在目录 `/mnt/d` 为`D：`盘
+`/mnt/d/wealth/code/Python/ChatGLM-6B/`   
+项目在Windows系统中所在目录 `/mnt/d` 为`D：`盘
 > D:\wealth\code\Python\ChatGLM-6B
 
 `.` 为Debian中的当前目录 `/data`
